@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prof. Dr. Ahmet Altun
-- 👀 I’m a Computational Chemist / Data Analyst
+- 👀 I’m a Computational Chemist / Data Scientist
 - 💻 Working at: Max-Planck-Institut für Kohlenforshung, Germany
 - 📫 To reach me, send an e-mail over: https://www.researchgate.net/profile/Ahmet-Altun
 
