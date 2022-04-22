@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prof. Dr. Ahmet Altun
-- 👀 I’m a Computational Chemist
+- 👀 I’m a Computational Chemist / Data Analyst
 - 📫 To reach me, send an e-mail over: https://www.researchgate.net/profile/Ahmet-Altun
 
 <!---
